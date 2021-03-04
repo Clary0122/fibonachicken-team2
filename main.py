@@ -1,4 +1,4 @@
-from fibo import do_fibo
+from do_fibonachick  import chicken
 if __name__=='__main__':
     user_num = int(input('Type any positive integer: '))
     result = do_fibo(user_num)
